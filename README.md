@@ -1,2 +1,0 @@
-# mystorehouse
-TestGit's Function
